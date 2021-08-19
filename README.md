@@ -1,4 +1,4 @@
-# Automatização de Processo - Intensivão Python
+# Automatização de Processo 
 
 Código em Python com o intuito de auxiliar em uma tarefa repetitiva
 
